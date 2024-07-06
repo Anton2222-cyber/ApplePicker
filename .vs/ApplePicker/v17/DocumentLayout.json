@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\GamesUnity\\ApplePicker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|e:\\gamesunity\\applepicker\\assets\\scripts\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|E:\\GamesUnity\\ApplePicker\\assets\\scripts\\appletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\appletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|e:\\gamesunity\\applepicker\\assets\\scripts\\appletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\appletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|e:\\gamesunity\\applepicker\\assets\\scripts\\applepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\applepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|E:\\GamesUnity\\ApplePicker\\assets\\scripts\\prefabreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|E:\\GamesUnity\\ApplePicker\\assets\\scripts\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038AC0DE-28CA-E37D-8031-5621BA3E8786}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +34,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ApplePicker.cs",
+              "DocumentMoniker": "E:\\GamesUnity\\ApplePicker\\Assets\\Scripts\\ApplePicker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApplePicker.cs",
+              "ToolTip": "E:\\GamesUnity\\ApplePicker\\Assets\\Scripts\\ApplePicker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApplePicker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:22:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrefabReplacer.cs",
+              "DocumentMoniker": "E:\\GamesUnity\\ApplePicker\\Assets\\Scripts\\PrefabReplacer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PrefabReplacer.cs",
+              "ToolTip": "E:\\GamesUnity\\ApplePicker\\Assets\\Scripts\\PrefabReplacer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PrefabReplacer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:58:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Apple.cs",
               "DocumentMoniker": "E:\\GamesUnity\\ApplePicker\\Assets\\Scripts\\Apple.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Apple.cs",
@@ -34,18 +67,17 @@
               "RelativeToolTip": "Assets\\Scripts\\Apple.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T09:22:14.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T09:22:14.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppleTree.cs",
               "DocumentMoniker": "E:\\GamesUnity\\ApplePicker\\Assets\\Scripts\\AppleTree.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AppleTree.cs",
               "ToolTip": "E:\\GamesUnity\\ApplePicker\\Assets\\Scripts\\AppleTree.cs",
               "RelativeToolTip": "Assets\\Scripts\\AppleTree.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T17:44:30.246Z",
               "EditorCaption": ""

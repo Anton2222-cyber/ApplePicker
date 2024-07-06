@@ -502,7 +502,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c8a374b08a0ea544a92cfb52b5c0df3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  applePrefab: {fileID: 7640014452064908428, guid: 7250a13df8bd67f4dbc8b1d9d4ab609c, type: 3}
+  applePrefab: {fileID: 1105760525757012, guid: bfec01bc3e4d0444dbe595b4f55c6730, type: 3}
   speed: 10
   leftAndRightEdge: 25
   chanceToChangeDirections: 0.1

@@ -359,6 +359,7 @@
 "Assets/Scripts/ApplePicker.cs"
 "Assets/Scripts/AppleTree.cs"
 "Assets/Scripts/Basket.cs"
+"Assets/Scripts/PrefabReplacer.cs"
 -langversion:9.0
 /deterministic
 /optimize+
